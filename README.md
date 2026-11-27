@@ -1,4 +1,4 @@
-# Ren'Py Mobile
+# Ren'PyndIDE
 
 > 运行在 Android 上的 Ren'Py 集成开发环境（IDE）——脚本编辑、游戏编译、APK 打包与 AI 助手，全部在手机上完成。开源免费。
 

@@ -1,6 +1,6 @@
 # M3 Expressive UI 重构报告
 
-> 项目：Ren'Py Mobile IDE（Jetpack Compose + Material3）
+> 项目：Ren'PyndIDE（Jetpack Compose + Material3）
 > 基线提交：`11dbf58` · 最终提交：`a8f7524`
 > 全部 5 阶段已完成，共修改 9 个文件（+197 / −17 行），新增 3 个 token 文件。
 

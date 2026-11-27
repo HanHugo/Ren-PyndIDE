@@ -1,4 +1,4 @@
-# Ren'Py Mobile
+# Ren'PyndIDE
 
 > A Ren'Py IDE for Android — edit scripts, compile games, package APKs and use an AI assistant, all on your phone. Open source and free.
 
