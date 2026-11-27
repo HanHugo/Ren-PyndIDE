@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- APK 产物可能在项目目录（外部存储）或 app 私有缓存 -->
+    <external-path name="external_files" path="." />
+    <external-files-path name="external_files_root" path="." />
+    <files-path name="files" path="." />
+    <cache-path name="cache" path="." />
+    <root-path name="root" path="." />
+</paths>
